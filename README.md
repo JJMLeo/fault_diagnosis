@@ -30,10 +30,10 @@
 | delta_performance | 8×1000×10 |  |
 
 - 输入
-$ \Delta f_{j} =\frac{( f_{j} - f_{j}^{ref} )}{f_{j}^{ref}} * 100 $
+$\Delta f_{j} =\frac{( f_{j} - f_{j}^{ref} )}{f_{j}^{ref}} * 100$
 
 - 输出
-$ \Delta Y_{j} =\frac{( Y_{j} - Y_{j}^{ref} )}{Y_{j}^{ref}} * 100 $
+$\Delta Y_{j} =\frac{( Y_{j} - Y_{j}^{ref} )}{Y_{j}^{ref}} * 100$
 
 ## 4、计算源域数据Database_source
 
