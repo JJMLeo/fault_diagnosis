@@ -29,9 +29,9 @@
 | delta_measure | 8×1000×10 |  |
 | delta_performance | 8×1000×10 |  |
 
-- ![输入](https://github.com/JJMLeo/Fault_Diagnosis/blob/master/Figure/fig_of_README/Eqn1.gif)
+- 输入 ![输入](https://github.com/JJMLeo/Fault_Diagnosis/blob/master/Figure/fig_of_README/Eqn1.gif)
 
-- ![输出](https://github.com/JJMLeo/Fault_Diagnosis/blob/master/Figure/fig_of_README/Eqn2.gif)
+- 输出 ![输出](https://github.com/JJMLeo/Fault_Diagnosis/blob/master/Figure/fig_of_README/Eqn2.gif)
 
 ## 4、计算源域数据Database_source
 
