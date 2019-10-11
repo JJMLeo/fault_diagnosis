@@ -1,0 +1,3 @@
+沿流程总压
+飞行高度=10668.00     马赫数=0.820000
+No  Pino   Pfano   Pcomo    Pburno   Phto    Plto    Pbpo   Pson    Pso

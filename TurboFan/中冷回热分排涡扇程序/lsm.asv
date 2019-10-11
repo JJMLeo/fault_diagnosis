@@ -1,0 +1,13 @@
+filename='designparadata.txt';
+fid=fopen(filename,'r');
+for i=1:4;
+    f=fgetl(fid);
+end
+BPR = str2num(f);
+f=fgetl(fid);
+f=fgetl(fid);
+SIGMAds = str2num(f);
+f=fgetl(fid);
+f=fgetl(fid);
+RKF=str2num(f);
+f

@@ -1,0 +1,78 @@
+飞行高度=10668.00     马赫数=0.800000
+No  N1    N2     推力         耗油率  燃油流量    涵道比   SRF  SRC  风扇裕度  增压级裕度  压气机裕度
+     NaN        NaN        NaN        NaN        NaN        NaN       NaN   0.07407
+1 100.00000       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+推力=     NaN   耗油率=     NaN   燃油消耗=     NaN   速度比=     NaN   涵道比=     NaN   N1=100.00000   N2=     NaN
+风扇：换算流量=     NaN  压比=     NaN  效率=     NaN  换算转速= 1.00287
+增压级：换算流量=     NaN  压比=     NaN  效率=     NaN  换算转速=     NaN
+压气机：换算流量=     NaN  压比=     NaN  效率=     NaN  换算转速=     NaN
+燃烧室：燃烧效率=  NaN  总压恢复系数=  NaN
+高压涡轮：膨胀比=  NaN  效率=  NaN  需用单位功=  NaN
+低压涡轮：膨胀比=  NaN  效率=  NaN  需用单位功=  NaN
+喷管：外涵面积=4.58064  中冷外涵面积=0.38127  内涵面积=0.72190
+截面参数： 总温       总压      流量
+进气道出口：246.81542   36338.44637        NaN
+风扇出口：     NaN        NaN        NaN        NaN
+增压级出口：     NaN        NaN        NaN
+中冷器出口：     NaN        NaN        NaN
+压气机出口：     NaN        NaN        NaN
+燃烧室进口：     NaN        NaN        NaN
+燃烧室出口：     NaN        NaN        NaN
+高压涡轮出口：     NaN        NaN        NaN
+低压涡轮出口：     NaN        NaN        NaN
+外涵喷管出口：总温=     NaN   总压=23838.80639   排气速度=     NaN
+中冷外涵喷管出口：总温=276.24905   总压=32548.62600   排气速度=333.37303
+内涵喷管出口：总温=     NaN   总压=23838.80639   排气速度=     NaN
+RKF=     NaN   RKB=     NaN   RKC=     NaN
+飞行高度=10668.00     马赫数=0.900000
+No  N1    N2     推力         耗油率  燃油流量    涵道比   SRF  SRC  风扇裕度  增压级裕度  压气机裕度
+     NaN        NaN        NaN        NaN        NaN        NaN       NaN   0.07407
+1 100.00000       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+推力=     NaN   耗油率=     NaN   燃油消耗=     NaN   速度比=     NaN   涵道比=     NaN   N1=100.00000   N2=     NaN
+风扇：换算流量=     NaN  压比=     NaN  效率=     NaN  换算转速= 0.98809
+增压级：换算流量=     NaN  压比=     NaN  效率=     NaN  换算转速=     NaN
+压气机：换算流量=     NaN  压比=     NaN  效率=     NaN  换算转速=     NaN
+燃烧室：燃烧效率=  NaN  总压恢复系数=  NaN
+高压涡轮：膨胀比=  NaN  效率=  NaN  需用单位功=  NaN
+低压涡轮：膨胀比=  NaN  效率=  NaN  需用单位功=  NaN
+喷管：外涵面积=4.58064  中冷外涵面积=0.38127  内涵面积=0.72190
+截面参数： 总温       总压      流量
+进气道出口：254.25490   40318.64746        NaN
+风扇出口：     NaN        NaN        NaN        NaN
+增压级出口：     NaN        NaN        NaN
+中冷器出口：     NaN        NaN        NaN
+压气机出口：     NaN        NaN        NaN
+燃烧室进口：     NaN        NaN        NaN
+燃烧室出口：     NaN        NaN        NaN
+高压涡轮出口：     NaN        NaN        NaN
+低压涡轮出口：     NaN        NaN        NaN
+外涵喷管出口：总温=     NaN   总压=23838.80639   排气速度=     NaN
+中冷外涵喷管出口：总温=276.24905   总压=32548.62600   排气速度=333.37303
+内涵喷管出口：总温=     NaN   总压=23838.80639   排气速度=     NaN
+RKF=     NaN   RKB=     NaN   RKC=     NaN
+飞行高度=10668.00     马赫数=1.000000
+No  N1    N2     推力         耗油率  燃油流量    涵道比   SRF  SRC  风扇裕度  增压级裕度  压气机裕度
+     NaN        NaN        NaN        NaN        NaN        NaN       NaN   0.07407
+1 100.00000       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+推力=     NaN   耗油率=     NaN   燃油消耗=     NaN   速度比=     NaN   涵道比=     NaN   N1=100.00000   N2=     NaN
+风扇：换算流量=     NaN  压比=     NaN  效率=     NaN  换算转速= 0.97232
+增压级：换算流量=     NaN  压比=     NaN  效率=     NaN  换算转速=     NaN
+压气机：换算流量=     NaN  压比=     NaN  效率=     NaN  换算转速=     NaN
+燃烧室：燃烧效率=  NaN  总压恢复系数=  NaN
+高压涡轮：膨胀比=  NaN  效率=  NaN  需用单位功=  NaN
+低压涡轮：膨胀比=  NaN  效率=  NaN  需用单位功=  NaN
+喷管：外涵面积=4.58064  中冷外涵面积=0.38127  内涵面积=0.72190
+截面参数： 总温       总压      流量
+进气道出口：262.56960   45125.17173        NaN
+风扇出口：     NaN        NaN        NaN        NaN
+增压级出口：     NaN        NaN        NaN
+中冷器出口：     NaN        NaN        NaN
+压气机出口：     NaN        NaN        NaN
+燃烧室进口：     NaN        NaN        NaN
+燃烧室出口：     NaN        NaN        NaN
+高压涡轮出口：     NaN        NaN        NaN
+低压涡轮出口：     NaN        NaN        NaN
+外涵喷管出口：总温=     NaN   总压=23838.80639   排气速度=     NaN
+中冷外涵喷管出口：总温=276.24905   总压=32548.62600   排气速度=333.37303
+内涵喷管出口：总温=     NaN   总压=23838.80639   排气速度=     NaN
+RKF=     NaN   RKB=     NaN   RKC=     NaN
